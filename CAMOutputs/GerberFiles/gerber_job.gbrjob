@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-11-11T18:54:56Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Riptide"
+        },
+        "Owner": "Brian Thornock <brianthornock@gmail.com>",
+        "Size": {
+            "X": 100.31,
+            "Y": 45.39
+        }
+    }
+}
